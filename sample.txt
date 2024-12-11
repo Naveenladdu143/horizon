@@ -1,6 +1,11 @@
 
 hello naveen kumar
+<<<<<<< HEAD
 
 hello naveen
 how are you
 what about your father
+=======
+saikumar
+
+>>>>>>> parent of a542d47 (a new commit will adede)
